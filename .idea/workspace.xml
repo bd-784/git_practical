@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db2c2398-d1da-4126-82fe-aa5b9f0d7962" name="Changes" comment="secound file">
+    <list default="true" id="db2c2398-d1da-4126-82fe-aa5b9f0d7962" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bd-784&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bd-784/git_practical&quot;,
+    &quot;accountId&quot;: &quot;d690cfba-8d79-47c8-be8d-ea783e40ef4e&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -66,6 +78,9 @@
       <workItem from="1769394121165" duration="360000" />
       <workItem from="1769394519520" duration="52000" />
       <workItem from="1769397518625" duration="12000" />
+      <workItem from="1769397566585" duration="786000" />
+      <workItem from="1769464407697" duration="17000" />
+      <workItem from="1769651776706" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="secound file">
       <option name="closed" value="true" />
@@ -91,15 +106,67 @@
       <option name="project" value="LOCAL" />
       <updated>1769394451847</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="secound file">
+      <option name="closed" value="true" />
+      <created>1769397650348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769397650348</updated>
+    </task>
+    <task id="LOCAL-00005" summary="secound file">
+      <option name="closed" value="true" />
+      <created>1769397797312</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769397797312</updated>
+    </task>
+    <task id="LOCAL-00006" summary="secound file">
+      <option name="closed" value="true" />
+      <created>1769397921751</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769397921751</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1769398336845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1769398336845</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1769398347857</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769398347857</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="secound file" />
-    <option name="LAST_COMMIT_MESSAGE" value="secound file" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
